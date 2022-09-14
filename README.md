@@ -1,6 +1,10 @@
 # ColorMix - Pull the pins and release the dyes to get the color you want. Be careful not to pull the wrong pin.
 
-![image](https://user-images.githubusercontent.com/9617988/190154088-997e8bb8-0900-47a4-8ba4-b5c615fe1972.png = 540x960)
+<p align="center">
+  <img width="540" height="960" src="https://user-images.githubusercontent.com/9617988/190154088-997e8bb8-0900-47a4-8ba4-b5c615fe1972.png">
+</p>
+
+![image](https://user-images.githubusercontent.com/9617988/190154088-997e8bb8-0900-47a4-8ba4-b5c615fe1972.png)
 
 ![image](https://user-images.githubusercontent.com/9617988/190154116-3d76bff0-5877-4214-95bb-d9fc139aaabd.png)
 
