@@ -24,4 +24,4 @@
   <a href="https://www.youtube.com/watch?v=pjDptmZ-YRs"><img src="https://img.youtube.com/vi/pjDptmZ-YRs/0.jpg"></a>
 </div>
 
-<h2><p align="center" href="https://play.google.com/store/apps/details?id=com.redjacket.colormix"> Click For Playstore Link </h2>
+<h2><p align="center" href="https://play.google.com/store/apps/details?id=com.redjacket.colormix"> Click For Playstore Link </p> </h2>
